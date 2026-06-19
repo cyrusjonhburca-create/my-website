@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "my-website",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["my-website/app.py"],
+      "port": 8080
+    }
+  ]
+}
