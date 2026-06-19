@@ -10,7 +10,7 @@ from urllib.parse import parse_qs, urlparse
 PORT = int(os.environ.get("PORT", 8080))
 BASE_DIR = os.path.dirname(__file__)
 DB_PATH  = os.path.join(BASE_DIR, "messages.db")
-HTML_FILE      = os.path.join(BASE_DIR, "index.html")
+HTML_FILE      = os.path.join(BASE_DIR, "proposal.html")
 PROPOSAL_FILE  = os.path.join(BASE_DIR, "proposal.html")
 
 
